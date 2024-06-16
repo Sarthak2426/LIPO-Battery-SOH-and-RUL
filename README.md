@@ -109,6 +109,9 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## UI Sample
 ![image](https://github.com/Sarthak2426/LIPO-Battery-SOH-and-RUL/assets/90612035/8de0e85b-44ee-4b07-92c7-268653b48c37)
+
+
+
 ![image](https://github.com/Sarthak2426/LIPO-Battery-SOH-and-RUL/assets/90612035/aca24d30-8a6e-4090-8eb8-b77542c2d4f6)
 
 
